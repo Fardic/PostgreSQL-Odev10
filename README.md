@@ -1,5 +1,5 @@
 # PostgreSQL-Odev10
-Patiika PostgreSQL 10. Ödev
+Patika PostgreSQL 10. Ödev
 
 ## 1. Soru
 
